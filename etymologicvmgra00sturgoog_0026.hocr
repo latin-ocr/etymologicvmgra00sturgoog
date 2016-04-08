@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./etymologicvmgra00sturgoog/etymologicvmgra00sturgoog_0026.png"; bbox 0 0 4762 6030; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 963 2720 1621 2819">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 963 2720 1621 2819">
+     <span class='ocr_line' id='line_1_1' title="bbox 963 2720 1621 2819; baseline 0.003 -26"><span class='ocrx_word' id='word_1_1' title='bbox 963 2729 1034 2797; x_wconf 61' lang='lat'><strong>21·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1078 2723 1271 2795; x_wconf 61' lang='lat' dir='ltr'><strong>:rm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1322 2720 1560 2819; x_wconf 52' lang='lat'><strong>{⁴2³1}</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1594 2726 1621 2795; x_wconf 56' lang='lat' dir='ltr'><strong><em>a</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2386 6020">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2386 6020">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2386 6020; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 2386 6020; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
